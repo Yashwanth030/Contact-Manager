@@ -1,10 +1,6 @@
-# Contact-Manager
-Here's a **README.md** file for your Contact Manager project:  
+# 📇 Contact Manager 
 
----
-
-# 📇 Contact Manager (Backend)
-
+## Backend
 A simple backend project built using **Node.js**, **Express.js**, and **MongoDB** to manage contacts. The API is tested using **Postman**.
 
 ## 🚀 Features
