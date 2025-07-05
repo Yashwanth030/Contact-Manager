@@ -63,9 +63,3 @@ The server runs on **http://localhost:5000**.
 2. Use **http://localhost:5000** as the base URL  
 3. Test the endpoints with the required request body & headers  
 
-## 📜 License
-This project is open-source and free to use.  
-
----
-
-This README provides a clean and professional introduction to your project. You can modify it further as needed! 🚀
