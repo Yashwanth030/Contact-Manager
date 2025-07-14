@@ -1,7 +1,7 @@
 # 📇 Contact Manager 
 
 ## Backend
-A simple backend project built using **Node.js**, **Express.js**, and **MongoDB** to manage contacts. The API is tested using **Postman**.
+A backend project built using **Node.js**, **Express.js**, and **MongoDB** to manage contacts. The API is tested using **Postman**.
 
 ## 🚀 Features
 
